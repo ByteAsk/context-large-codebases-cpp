@@ -1,0 +1,16 @@
+task	kind	arms	repo	base_commit
+index-linux	index	context,graphify,claude-context	torvalds/linux (v2.6.32)	22763c5cf369
+index-llvm	index	context,graphify,claude-context	llvm/llvm-project	26538e800759
+fresh-agisostack	fresh	context	Open-Agriculture/AgIsoStack-plus-plus	77b8dc92e52a
+HDFGroup__hdf5-6518	retrieval	context,sgrep,probe-keyword,probe-agent,graphify	HDFGroup/hdf5	a3cf1ea82cc7
+HDFGroup__hdf5-6660	retrieval	context,sgrep,probe-keyword,probe-agent,graphify	HDFGroup/hdf5	a3cf1ea82cc7
+HDFGroup__hdf5-6686	retrieval	context,sgrep,probe-keyword,probe-agent,graphify	HDFGroup/hdf5	a3cf1ea82cc7
+HDFGroup__hdf5-6722	retrieval	context,sgrep,probe-keyword,probe-agent,graphify	HDFGroup/hdf5	a3cf1ea82cc7
+KhronosGroup__SPIRV-Tools-6867	retrieval	context,sgrep,probe-keyword,probe-agent,graphify	KhronosGroup/SPIRV-Tools	907d104d2b71
+OSGeo__PROJ-4902	retrieval	context,sgrep,probe-keyword,probe-agent,graphify	OSGeo/PROJ	beef4145b123
+apache__arrow-51251	retrieval	context,sgrep,probe-keyword,probe-agent,graphify	apache/arrow	ff30c725d28f
+google__highway-3500	retrieval	context,sgrep,probe-keyword,probe-agent,graphify	google/highway	1332fe861b6b
+lballabio__QuantLib-2792	retrieval	context,sgrep,probe-keyword,probe-agent,graphify	lballabio/QuantLib	7cafe5e4b84b
+lballabio__QuantLib-2793	retrieval	context,sgrep,probe-keyword,probe-agent,graphify	lballabio/QuantLib	7cafe5e4b84b
+open-telemetry__opentelemetry-cpp-4236	retrieval	context,sgrep,probe-keyword,probe-agent,graphify	open-telemetry/opentelemetry-cpp	04b97c7b9a7a
+opencv__opencv-29853	retrieval	context,sgrep,probe-keyword,probe-agent,graphify	opencv/opencv	59a0461d502c
